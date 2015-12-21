@@ -638,3 +638,9 @@ PRODUCT_COPY_FILES += \
         vendor/letv/x1na/proprietary/vendor/lib64/libxtwifi_ulp_adaptor.so:/system/vendor/lib64/libxtwifi_ulp_adaptor.so \
         vendor/letv/x1na/proprietary/vendor/lib64/libxtwifi_zpp_adaptor.so:/system/vendor/lib64/libxtwifi_zpp_adaptor.so \
         vendor/letv/x1na/proprietary/vendor/lib64/mediadrm/libdrmclearkeyplugin.so:/system/vendor/lib64/mediadrm/libdrmclearkeyplugin.so \
+        vendor/letv/x1na/proprietary/bin/xtwifi-client:/system/bin/xtwifi-client \
+        vendor/letv/x1na/proprietary/bin/xtwifi-inet-agent:/system/bin/xtwifi-inet-agent \
+        vendor/letv/x1na/proprietary/vendor/lib/libxtwifi_ulp_adaptor.so:/system/vendor/lib/libxtwifi_ulp_adaptor.so \
+        vendor/letv/x1na/proprietary/vendor/lib64/libxtwifi_ulp_adaptor.so:/system/vendor/lib64/libxtwifi_ulp_adaptor.so \
+        vendor/letv/x1na/proprietary/vendor/lib/libxtwifi_zpp_adaptor.so:/system/vendor/lib/libxtwifi_zpp_adaptor.so \
+        vendor/letv/x1na/proprietary/vendor/lib64/libxtwifi_zpp_adaptor.so:/system/vendor/lib64/libxtwifi_zpp_adaptor.so \
