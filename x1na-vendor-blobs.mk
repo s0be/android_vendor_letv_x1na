@@ -644,3 +644,7 @@ PRODUCT_COPY_FILES += \
         vendor/letv/x1na/proprietary/vendor/lib64/libxtwifi_ulp_adaptor.so:/system/vendor/lib64/libxtwifi_ulp_adaptor.so \
         vendor/letv/x1na/proprietary/vendor/lib/libxtwifi_zpp_adaptor.so:/system/vendor/lib/libxtwifi_zpp_adaptor.so \
         vendor/letv/x1na/proprietary/vendor/lib64/libxtwifi_zpp_adaptor.so:/system/vendor/lib64/libxtwifi_zpp_adaptor.so \
+	vendor/letv/x1na/proprietary/lib/libamipengine.so:/system/vendor/lib/libamipengine.so \
+	vendor/letv/x1na/proprietary/lib/libdashplayer.so:/system/vendor/lib/libdashplayer.so \
+	vendor/letv/x1na/proprietary/lib64/libdashplayer.so:/system/vendor/lib64/libdashplayer.so \
+	vendor/letv/x1na/proprietary/vendor/lib/soundfx/libswdap.so:/system/vendor/vendor/lib/soundfx/libswdap.so \
