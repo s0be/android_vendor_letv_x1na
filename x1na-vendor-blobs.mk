@@ -969,3 +969,37 @@ PRODUCT_COPY_FILES += \
 	vendor/letv/x1na/proprietary/vendor/lib/soundfx/libswdap.so:/system/vendor/lib/soundfx/libswdap.so \
 	vendor/letv/x1na/proprietary/vendor/lib64/libxtwifi_ulp_adaptor.so:/system/vendor/lib64/libxtwifi_ulp_adaptor.so \
 	vendor/letv/x1na/proprietary/vendor/lib64/libxtwifi_zpp_adaptor.so:/system/vendor/lib64/libxtwifi_zpp_adaptor.so \
+	vendor/letv/x1na/proprietary/etc/dts/attached0.dtscs:/system/etc/dts/attached0.dtscs \
+	vendor/letv/x1na/proprietary/etc/dts/attached1.dtscs:/system/etc/dts/attached1.dtscs \
+	vendor/letv/x1na/proprietary/etc/dts/bluetooth0.dtscs:/system/etc/dts/bluetooth0.dtscs \
+	vendor/letv/x1na/proprietary/etc/dts/combo0.dtscs:/system/etc/dts/combo0.dtscs \
+	vendor/letv/x1na/proprietary/etc/dts/configurator.cfg:/system/etc/dts/configurator.cfg \
+	vendor/letv/x1na/proprietary/etc/dts/eagle-lic.key:/system/etc/dts/eagle-lic.key \
+	vendor/letv/x1na/proprietary/etc/dts/lineout0.dtscs:/system/etc/dts/lineout0.dtscs \
+	vendor/letv/x1na/proprietary/etc/dts/m-lic.key:/system/etc/dts/m-lic.key \
+	vendor/letv/x1na/proprietary/etc/dts/other.dtscs:/system/etc/dts/other.dtscs \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/TFA9890_N1B12_N1C3_v2.config:/system/etc/tfa98xx/TFA9890_N1B12_N1C3_v2.config \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/TFA9890_N1C3_2_1_1.patch:/system/etc/tfa98xx/TFA9890_N1C3_2_1_1.patch \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/coldboot.patch:/system/etc/tfa98xx/coldboot.patch \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/max1/Music.eq:/system/etc/tfa98xx/max1/Music.eq \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/max1/Music.preset:/system/etc/tfa98xx/max1/Music.preset \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/max1/Speech.eq:/system/etc/tfa98xx/max1/Speech.eq \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/max1/Speech.preset:/system/etc/tfa98xx/max1/Speech.preset \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/max1/SpeechBT.eq:/system/etc/tfa98xx/max1/SpeechBT.eq \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/max1/SpeechBT.preset:/system/etc/tfa98xx/max1/SpeechBT.preset \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/max1/dBass.speaker:/system/etc/tfa98xx/max1/dBass.speaker \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/x1/Music.eq:/system/etc/tfa98xx/x1/Music.eq \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/x1/Music.preset:/system/etc/tfa98xx/x1/Music.preset \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/x1/Speech.eq:/system/etc/tfa98xx/x1/Speech.eq \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/x1/Speech.preset:/system/etc/tfa98xx/x1/Speech.preset \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/x1/SpeechBT.eq:/system/etc/tfa98xx/x1/SpeechBT.eq \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/x1/SpeechBT.preset:/system/etc/tfa98xx/x1/SpeechBT.preset \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/x1/dBass.speaker:/system/etc/tfa98xx/x1/dBass.speaker \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/x1na/Music.eq:/system/etc/tfa98xx/x1na/Music.eq \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/x1na/Music.preset:/system/etc/tfa98xx/x1na/Music.preset \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/x1na/Speech.eq:/system/etc/tfa98xx/x1na/Speech.eq \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/x1na/Speech.preset:/system/etc/tfa98xx/x1na/Speech.preset \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/x1na/SpeechBT.eq:/system/etc/tfa98xx/x1na/SpeechBT.eq \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/x1na/SpeechBT.preset:/system/etc/tfa98xx/x1na/SpeechBT.preset \
+	vendor/letv/x1na/proprietary/etc/tfa98xx/x1na/dBass.speaker:/system/etc/tfa98xx/x1na/dBass.speaker \
+
