@@ -1006,4 +1006,4 @@ PRODUCT_COPY_FILES += \
 	vendor/letv/x1na/proprietary/bin/ipacm:/system/bin/ipacm \
 	vendor/letv/x1na/proprietary/bin/ipacm-diag:/system/bin/ipacm-diag \
 	vendor/letv/x1na/proprietary/bin/qcom-system-daemon:/system/bin/qcom-system-daemon \
-
+	vendor/letv/x1na/proprietary/bin/cnss_diag:/system/bin/cnss_diag \
