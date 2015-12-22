@@ -1003,6 +1003,7 @@ PRODUCT_COPY_FILES += \
 	vendor/letv/x1na/proprietary/etc/tfa98xx/x1na/SpeechBT.preset:/system/etc/tfa98xx/x1na/SpeechBT.preset \
 	vendor/letv/x1na/proprietary/etc/tfa98xx/x1na/dBass.speaker:/system/etc/tfa98xx/x1na/dBass.speaker \
 	vendor/letv/x1na/proprietary/bin/nvm_service:/system/bin/nvm_service \
-	vendor/letv/x1na/proprietary/bin/ipacm:/systeb/bin/ipacm \
-	vendor/letv/x1na/proprietary/bin/ipacm-diag:/systeb/bin/ipacm-diag \
+	vendor/letv/x1na/proprietary/bin/ipacm:/system/bin/ipacm \
+	vendor/letv/x1na/proprietary/bin/ipacm-diag:/system/bin/ipacm-diag \
+	vendor/letv/x1na/proprietary/bin/qcom-system-daemon:/system/bin/qcom-system-daemon \
 
